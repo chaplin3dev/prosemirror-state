@@ -22,7 +22,7 @@ discussion and support requests, and the
 [Github bug tracker](https://github.com/prosemirror/prosemirror/issues)
 is the place to report issues.
 
-We aim to be an inclusive, welcoming community. To make that explicit,
+We aim to be an inclusive and welcoming community. To make that explicit,
 we have a [code of
 conduct](http://contributor-covenant.org/version/1/1/0/) that applies
 to communication around the project.
